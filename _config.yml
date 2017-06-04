@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Test name"
 description              : "Test description"
 # description              : "Techical blog about hybris, solution architecture and other cool stuff "
-url                      : https://sergaks.com
+url                      : https://sergaks.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : sergaks/sergaks.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
